@@ -1,6 +1,6 @@
 # Insertion Sort
 
-A simple single class implementation of insertion sort in Java. The user will be prompted to input the number of elements in a list array which they want to enter. The user then will choose a element to be sorted in the list. Insertion sort is a simple sorting algorithm that builds the final sorted array one item at a time. It is much less efficient on large lists than more advanced algorithms such as quicksort, heapsort, or merge sort.
+A simple single class implementation of insertion sort in Java. The user will be prompted to input the number of elements in a list array which they want to enter. Insertion sort is a simple sorting algorithm that builds the final sorted array one item at a time. It is much less efficient on large lists than more advanced algorithms such as quicksort, heapsort, or merge sort.
 
 ## How to use it.
 * Open a command prompt window and go to the directory where you saved the java program (InsertionSort.java).
