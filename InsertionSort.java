@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * This is an implementation of the insertion sort algorithm.
- * @author Ramesh Kumar
+ * @author @inforkgodara
  *
  */
 public class InsertionSort {
